@@ -1,5 +1,5 @@
 # Tetris
-One more implementation of Tetris on Windows Form.
+One more implementation of Tetris on Windows Form. <br />
 Ещё одна реализация Тетриса на Windows Form.
 
 It's simple Tetris.
